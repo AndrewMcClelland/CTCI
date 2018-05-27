@@ -342,7 +342,7 @@ ASALocalRun/
 
 #Ignore all files in problem source folders except .cpp files (ignore the created binaries)
 Data Structures/
-!Data Structures/*.cpp
+!Data Structures/Chapter 1 - Arrays and Strings/*.cpp
 Concepts and Algorithms/
 !Concepts and Algorithms/*.cpp
 Knowledge Based/
